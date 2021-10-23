@@ -1,6 +1,6 @@
-#Truthy / Falsey
+# Truthy / Falsey
 Most things in JavaScript are considered Truthy, except for the following:
-
+```js
 False
 // False is False. Makes sense, right?
 
@@ -17,4 +17,5 @@ undefined
 // an object that has not been defined is considered falsey.
 
 NaN
-// Not a Number. You'll learn more about NaN as we go on.
+// Not a Number. You'll learn more about NaN as we go on.`
+```
